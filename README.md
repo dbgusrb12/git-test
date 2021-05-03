@@ -4,4 +4,3 @@
 
 안녕하세요 git merge 에 대해서 배우는 중입니다~~~
 
-spspspsp
