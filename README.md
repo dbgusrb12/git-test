@@ -5,4 +5,5 @@ readme mark down file add
 
 안녕하세요 git merge 에 대해서 배우는 중입니다~~~
 
-spspsp
+
+0000122
